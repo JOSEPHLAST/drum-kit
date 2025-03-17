@@ -9,7 +9,7 @@ An interactive drum kit simulator that lets users play different drum sounds usi
 ✅ Works directly in the browser—no installation required.   
 
 ## LIVE DEMO
-🚀 Live Preview (Add your hosted link here later)
+[🚀 Live Preview](https://josephlast.github.io/drum-kit/)
 
 ## TECHNOLOGIES USED
 	•	HTML – Structure of the drum kit.
